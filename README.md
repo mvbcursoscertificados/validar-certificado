@@ -83,6 +83,10 @@ const nomeAluno = "Samuel Santos de Sousa";
 // Lista de códigos válidos para esse aluno
 const codigosValidos = ["08313654392", "1731251567101443/24", "1731252567101443/24", "1731253567101443/24"];
 
+    const nomeAluno = "Joedson de Oliveira Silva";
+// Lista de códigos válidos para esse aluno
+const codigosValidos = ["81300662204", "1731240567101413/24"];
+
 function mostrarResultado() {
     const input = document.getElementById("search").value.trim();
     const resultado = document.getElementById("resultado");
